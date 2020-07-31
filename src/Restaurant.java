@@ -152,6 +152,9 @@ public class Restaurant {
         System.out.println("Leftover servings for the delivery person: " + determineLeftOvers(feeds, trays, people));
 
 
+        scanner.close();
+
+
     }
 
 
